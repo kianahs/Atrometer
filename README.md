@@ -81,7 +81,7 @@ You can simply setting up project locally by following few instructions.
   ```sh
   npm install npm@latest -g
   ```
-*Tailwind CSS
+* Tailwind CSS
   ```sh
   npm install tailwindcss
   ```

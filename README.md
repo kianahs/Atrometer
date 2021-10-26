@@ -10,7 +10,7 @@
     <img src="photos/template.svg" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Website-Template</h3>
 
  
 </div>
@@ -49,7 +49,9 @@
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 This project is about impelementing a simple Website for representing some IoT products 
-and offering some solutions based on customer needs
+and offering some solutions based on customer needs and is a good example of combining react components with tailwind css.
+Tailwind automatically removes all unused CSS when building for production, which means your final CSS bundle is the smallest it could possibly be. In fact, most Tailwind
+projects ship less than 10kB of CSS to the client.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 

@@ -10,7 +10,7 @@
     <img src="photos/template.svg" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Website-Template</h3>
+  <h3 align="center">project-Template</h3>
 
  
 </div>
@@ -48,8 +48,8 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-This project is about impelementing a simple Website for representing some IoT products 
-and offering some solutions based on customer needs and is a good example of combining react components with tailwind css.
+This project is about impelementing a simple Website for representing some IoT products
+and offering some solutions based on customer needs and is a good example of combining react components with tailwind css and showing how to create reuseable components.
 Tailwind automatically removes all unused CSS when building for production, which means your final CSS bundle is the smallest it could possibly be. In fact, most Tailwind
 projects ship less than 10kB of CSS to the client.
 
@@ -81,13 +81,17 @@ You can simply setting up project locally by following few instructions.
   ```sh
   npm install npm@latest -g
   ```
+*Tailwind CSS
+  ```sh
+  npm install tailwindcss
+  ```
 
 ### Installation
 
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/kianahs/Atrometer.git
    ```
 2. Install NPM packages
    ```sh
